@@ -1,0 +1,1 @@
+select cast('2019/12/12' as datetime) as "Datetime";
